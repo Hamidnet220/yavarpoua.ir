@@ -1,0 +1,20 @@
+{
+  "name": "yarvarpoua.ir",
+  "version": "1.0.0",
+  "description": "this site for manage employee payroll and post news about yavar-poua-e-jnoob co.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "helmet": "^3.15.0",
+    "joi": "^14.3.0",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.4.0",
+    "morgan": "^1.9.1",
+    "pug": "^2.0.3"
+  }
+}
